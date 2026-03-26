@@ -1,0 +1,11 @@
+{
+  "name": "intelligent-hope",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "install:app": "cd ecommerce-frontend-main && npm install",
+    "build": "cd ecommerce-frontend-main && npm install && npm run build",
+    "start": "cd ecommerce-frontend-main && npm start"
+  }
+}
